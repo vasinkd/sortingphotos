@@ -1,2 +1,2 @@
 # sortingphotos
-Code helps to sort photos from different cameras
+Code helps to sort photos from different cameras by time
